@@ -5,7 +5,7 @@ const hoursTime = document.querySelector(".hour");
 const minsTime = document.querySelector(".min");
 const secsTime = document.querySelector(".sec");
 
-const christmas = "25 Dec 2021";
+const christmas = "25 Dec 2023";
 
 function countdown() {
   const christmasDate = new Date(christmas);
